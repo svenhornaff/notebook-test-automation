@@ -43,3 +43,4 @@ def test_dataframe_manipulation(simple_nb):
 
 def test_stdout(simple_nb):
     print(simple_nb.cell_output_text(1))
+
