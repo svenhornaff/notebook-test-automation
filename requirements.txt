@@ -4,6 +4,7 @@ ipython
 mypy
 pandas
 pytest
+requests
 testbook
 toml
 tox
