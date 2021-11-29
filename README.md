@@ -29,7 +29,7 @@ ource venv/bin/activate
 pip install requirements.txt
 ```
 
-### step 4: run your tests
+## Step 4: run your tests
 
 ```zsh
 pytest -v
